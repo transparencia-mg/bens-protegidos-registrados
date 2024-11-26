@@ -1,0 +1,32 @@
+name: bens-protegidos-registrados
+owner_org: https://homologa.cge.mg.gov.br/
+profile: data-package
+resources:
+  - description: Insira a descrição/explicação detalhada deste recurso.
+    dialect:
+      delimiter: ;
+    encoding: utf-8-sig
+    format: csv
+    hashing: md5
+    name: bens_protegidos_registrados
+    path: data/bens_protegidos_registrados.csv
+    profile: tabular-data-resource
+    schema:
+      fields:
+        - name: municipio
+          type: string
+        - name: homologacao
+          type: string
+        - name: nome_bem_imaterial_registrado
+          type: string
+        - name: local_ocorrencia_bem_imaterial_registrado
+          type: string
+        - name: esfera_de_protecao
+          type: string
+        - name: categoria
+          type: string
+        - name: exercicio_aceito_para_efeito_de_pontuacao
+          type: string
+    scheme: file
+    title: Insira um título humanamente legível para este recurso.
+title: Bens protegidos registrados
