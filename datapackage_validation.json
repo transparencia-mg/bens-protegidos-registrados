@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.061,
+  "time": 0.06,
   "errors": [],
   "tasks": [
     {
@@ -71,13 +71,13 @@
         "scheme": "file",
         "title": "Bens Protegidos - Registrados",
         "stats": {
-          "hash": "0e491bd66479e668a057c5ad70c0c259",
-          "bytes": 250793,
+          "hash": "e54981f18be4b1060b6d4e7941b6958c",
+          "bytes": 250792,
           "fields": 7,
           "rows": 2981
         }
       },
-      "time": 0.053,
+      "time": 0.052,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -99,16 +99,73 @@
         "unique-error"
       ],
       "partial": false,
-      "errors": [],
+      "errors": [
+        {
+          "label": "nome_do_bem_registrado",
+          "fieldName": "nome_bem_imaterial_registrado",
+          "fieldNumber": 3,
+          "fieldPosition": 3,
+          "labels": [
+            "municipio",
+            "homologacao",
+            "nome_do_bem_registrado",
+            "local_de_ocorrencia_do_bem_imaterial_registrado",
+            "esfera_de_protecao",
+            "categoria",
+            "exercicio_aceito_para_efeito_de_pontuacao"
+          ],
+          "rowPositions": [
+            1
+          ],
+          "code": "incorrect-label",
+          "name": "Incorrect Label",
+          "tags": [
+            "#table",
+            "#header",
+            "#label"
+          ],
+          "note": "",
+          "message": "Label \"nome_do_bem_registrado\" in field nome_bem_imaterial_registrado at position \"3\" does not match the field name in the schema",
+          "description": "One of the data source header does not match the field name defined in the schema."
+        },
+        {
+          "label": "local_de_ocorrencia_do_bem_imaterial_registrado",
+          "fieldName": "local_ocorrencia_bem_imaterial_registrado",
+          "fieldNumber": 4,
+          "fieldPosition": 4,
+          "labels": [
+            "municipio",
+            "homologacao",
+            "nome_do_bem_registrado",
+            "local_de_ocorrencia_do_bem_imaterial_registrado",
+            "esfera_de_protecao",
+            "categoria",
+            "exercicio_aceito_para_efeito_de_pontuacao"
+          ],
+          "rowPositions": [
+            1
+          ],
+          "code": "incorrect-label",
+          "name": "Incorrect Label",
+          "tags": [
+            "#table",
+            "#header",
+            "#label"
+          ],
+          "note": "",
+          "message": "Label \"local_de_ocorrencia_do_bem_imaterial_registrado\" in field local_ocorrencia_bem_imaterial_registrado at position \"4\" does not match the field name in the schema",
+          "description": "One of the data source header does not match the field name defined in the schema."
+        }
+      ],
       "stats": {
-        "errors": 0
+        "errors": 2
       },
-      "valid": true
+      "valid": false
     }
   ],
   "stats": {
-    "errors": 0,
+    "errors": 2,
     "tasks": 1
   },
-  "valid": true
+  "valid": false
 }
