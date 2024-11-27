@@ -17,17 +17,17 @@ resources:
           type: string
           title: Município
           format: default
-          description: Nome do municipio em que se encontra o bem registrado
+          description: Município de localização do bem imaterial registrado
         - name: homologacao
           type: string
           title: Homologação
           format: default
-          description: Numero e ano da homologação do registro
-        - name: nome_bem_imaterial_registrado
+          description: Documento de inscrição de apresentação do bem imaterial registrado
+        - name: nome_do_bem_resgistrado
           type: string
           title: Nome do bem imaterial registardo
           format: default
-          description: Nome do bem imaterial registardo
+          description: Descrição do bem imaterial registrado
         - name: local_ocorrencia_bem_imaterial_registrado
           type: string
           title: Local da ocorrência do bem imaterial registrado
