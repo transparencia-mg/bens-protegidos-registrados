@@ -92,13 +92,13 @@
         "scheme": "file",
         "title": "Bens Protegidos - Registrados",
         "stats": {
-          "hash": "e9d7566a819969e3ace7e478df08cd6b",
-          "bytes": 248890,
+          "hash": "e54981f18be4b1060b6d4e7941b6958c",
+          "bytes": 250792,
           "fields": 7,
-          "rows": 2982
+          "rows": 2981
         }
       },
-      "time": 0.053,
+      "time": 0.052,
       "scope": [
         "hash-count-error",
         "byte-count-error",
