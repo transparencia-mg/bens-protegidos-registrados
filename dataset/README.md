@@ -6,4 +6,4 @@ O processo de registro é um ato administrativo constituído por uma sequência 
 
 O IEPHA/MG, por meio de sua Gerência de Patrimônio Cultural Imaterial (GPCI), realiza ações de acompanhamento, registro e promoção dessas manifestações, garantindo a continuidade e a valorização do patrimônio cultural intangível do estado.
 
-Já a Gerência de Identificação e Pesquisa (GIP), além de ser responsável pela manutenção do banco de dados dos bens culturais imateriais, também tem como uma de suas competências a atualização constante das informações, assegurando que os bens culturais imateriais registrados sejam reconhecidos e protegidos da melhor forma..
+Já a Gerência de Identificação e Pesquisa (GIP), além de ser responsável pela manutenção do banco de dados dos bens culturais imateriais, também tem como uma de suas competências a atualização constante das informações, assegurando que os bens culturais imateriais registrados sejam reconhecidos e protegidos da melhor forma.
