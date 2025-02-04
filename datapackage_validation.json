@@ -1,11 +1,11 @@
 {
   "version": "4.16.6",
-  "time": 0.061,
+  "time": 0.059,
   "errors": [],
   "tasks": [
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "description": "O banco de dados do Patrimônio Cultural Imaterial de Minas Gerais refere-se aos bens culturais imateriais que são reconhecidos e protegidos, em estância estadual, devido à sua relevância para a identidade, história e memória coletiva das comunidades",
         "dialect": {
           "delimiter": ";"
         },
@@ -98,7 +98,7 @@
           "rows": 2981
         }
       },
-      "time": 0.053,
+      "time": 0.051,
       "scope": [
         "hash-count-error",
         "byte-count-error",
