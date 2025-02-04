@@ -2,7 +2,7 @@ name: bens-protegidos-registrados
 owner_org: instituto-estadual-do-patrimonio-historico-e-artistico-de-minas-gerais-iepha
 profile: data-package
 resources:
-  - description: Insira a descrição/explicação detalhada deste recurso.
+  - description: O banco de dados do Patrimônio Cultural Imaterial de Minas Gerais refere-se aos bens culturais imateriais que são reconhecidos e protegidos, em estância estadual, devido à sua relevância para a identidade, história e memória coletiva das comunidades
     dialect:
       delimiter: ;
     encoding: utf-8-sig
