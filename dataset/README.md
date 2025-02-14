@@ -1,3 +1,4 @@
+
 O banco de dados do Patrimônio Cultural Imaterial de Minas Gerais refere-se aos bens culturais imateriais que são reconhecidos e protegidos, em estância estadual, devido à sua relevância para a identidade, história e memória coletiva das comunidades. Esses bens incluem saberes, expressões, práticas, manifestações e festas tradicionais que, embora não possuam uma forma física tangível, têm um valor cultural significativo para a sociedade.
 
 Ao contrário dos bens materiais, protegidos pelo Tombamento, os bens imateriais são resguardados por meio do Registro. 
@@ -8,4 +9,3 @@ O Registro permite o acesso as informações detalhadas sobre as práticas cultu
 O processo de Registro é composto por uma sequência ordenada de atos administrativos realizados pelo poder público municipal, com o objetivo de proteger o valor cultural dos bens. Após o Registro, o bem deve ser especificado em uma das seguintes categorias: Saberes, Formas de Expressão, Lugares e Celebrações.
 
 Os municípios do Estado de Minas Gerais são responsáveis pela identificação, reconhecimento, manutenção e salvaguarda do Patrimônio Cultural Registrado local.
-
