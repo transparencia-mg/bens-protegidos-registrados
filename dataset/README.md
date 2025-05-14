@@ -10,6 +10,7 @@ O processo de Registro é composto por uma sequência ordenada de atos administr
 
 Os municípios do Estado de Minas Gerais são responsáveis pela identificação, reconhecimento, manutenção e salvaguarda do Patrimônio Cultural Registrado local.
 
+
 ## Como participar
 
 Saiba como contribuir com a documentação deste conjunto de dados!
